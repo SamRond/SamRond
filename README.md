@@ -10,6 +10,6 @@ Feel free to check out my repositories for an idea of what I work on in my free 
   
 - [GText](https://github.com/whoislewys/GText), which won the Google Services category at a 2019 hackathon at University of Arizona
   
-- [encryption_methods](https://github.com/SamRond/encryption_methods), a project I developed to implement RSA and Elliptic Curve Cryptography from scratch so I could better understand how they work
+- [encryption_methods](https://github.com/SamRond/encryption_methods), a Python project I undertook to implement RSA and Elliptic Curve Cryptography from scratch so I could better understand how they work
   
 - [kick-help](https://github.com/whoislewys/kick-help), a site to evaluate Kickstarter projects with a Python/ML backend and React frontend developed for a hackathon in 2018
